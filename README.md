@@ -17,7 +17,7 @@
 </td  style="text-align: center; border: 0">
 <td>
 
-<img width="350px" height="170px" src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/developer.gif">
+<img width="auto" height="170px" src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/developer2.gif">
 
 </td>
 
@@ -27,7 +27,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-RichardPinhelro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-pinheiro-56b99397/)](https://www.linkedin.com/in/richard-pinheiro-56b99397/)
 
-[![Twitter Badge](https://img.shields.io/badge/-@RichardPInhelro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RichardPInhelro)](https://twitter.com/RichardPInhelro) 
+[![Twitter Badge](https://img.shields.io/badge/-@RichardPinhelro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RichardPInhelro)](https://twitter.com/RichardPInhelro) 
 
 [![Gmail Badge](https://img.shields.io/badge/-richardpinheiro1992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardpinheiro1992@gmail.com)](mailto:richardpinheiro1992@gmail.com)
 
