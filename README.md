@@ -17,7 +17,7 @@
 </td  style="text-align: center; border: 0">
 <td>
 
-<img width="400px" height="235px" src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/developer.gif">
+<img width="350px" height="170px" src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/developer.gif">
 
 </td>
 
