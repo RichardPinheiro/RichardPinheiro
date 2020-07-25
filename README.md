@@ -1,16 +1,37 @@
-### Hi there 👋
+![Richard Pinheiro](https://pbs.twimg.com/profile_banners/41742474/1490016588/1500x500)
 
-<!--
-**RichardPinheiro/RichardPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 style="text-align: center;"> Hi there 👋 Richard coding here :computer:</h2>
+
+<table boder="0" style="border: 0">
+<tr  style="text-align: center; border: 0">
+<td  style="text-align: center; border: 0">
+
+- 🚀  &nbsp; I'm constantly evolving.
+- 🌱  &nbsp; I’m currently learning all about JavaScript ecosystem.
+- 🤔  &nbsp; I'm looking help for evolve more and more.
+- 💬  &nbsp; Ask me about what you want to know.
+- 😄  &nbsp; Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
+      
+</td  style="text-align: center; border: 0">
+<td>
+
+<img width="350px" height="235px" src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/developer.gif">
+
+</td>
+
+
+
+<td>
+
+[![Linkedin Badge](https://img.shields.io/badge/-RichardPinhelro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-pinheiro-56b99397/)](https://www.linkedin.com/in/richard-pinheiro-56b99397/)
+
+[![Twitter Badge](https://img.shields.io/badge/-@RichardPInhelro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RichardPInhelro)](https://twitter.com/RichardPInhelro) 
+
+[![Gmail Badge](https://img.shields.io/badge/-richardpinheiro1992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardpinheiro1992@gmail.com)](mailto:richardpinheiro1992@gmail.com)
+
+</td>
+
+</tr>
+</table>
