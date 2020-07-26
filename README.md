@@ -17,16 +17,16 @@
 </td  style="text-align: center; border: 0">
 <td>
 
-<img width="auto" height="170px" src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/developer2.gif">
+<img width="auto" height="190px" src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/developer2.gif">
 
 </td>
 
 
 
 <td>
+</br>
 
 📫  &nbsp; *How to reach me*
-</br>
 </br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-RichardPinhelro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-pinheiro-56b99397/)](https://www.linkedin.com/in/richard-pinheiro-56b99397/)
