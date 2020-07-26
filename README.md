@@ -25,6 +25,10 @@
 
 <td>
 
+📫  &nbsp; *How to reach me*
+</br>
+</br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-RichardPinhelro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-pinheiro-56b99397/)](https://www.linkedin.com/in/richard-pinheiro-56b99397/)
 
 [![Twitter Badge](https://img.shields.io/badge/-@RichardPinhelro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RichardPInhelro)](https://twitter.com/RichardPInhelro) 
