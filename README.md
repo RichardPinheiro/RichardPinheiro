@@ -8,11 +8,12 @@
 <tr  style="text-align: center; border: 0">
 <td  style="text-align: center; border: 0">
 
-- 🚀  &nbsp; I'm constantly evolving.
-- 🌱  &nbsp; I’m currently learning all about NodeJS, Java, Apex(salesforce), Python, React, Vue, LWC.
-- :wink:  &nbsp; I'm looking to evolve more and more.
-- 💬  &nbsp; Ask me about what you want to know.
-- 😄  &nbsp; Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
+- 🚀 Currently diving deep into
+- &nbsp; Backend: Node.js, Java, Python, Apex (Salesforce)
+- &nbsp; Frontend: React, Vue.js, Lightning Web Components (LWC)
+- 🌱 &nbsp; Always striving to learn, grow, and push the boundaries of what’s possible.
+- 🎯 &nbsp; Goal: To continue building innovative solutions while mastering cutting-edge technologies.
+- 🤔 &nbsp; Knowledge is a paradox, the more one knows, the more one realizes the vastness of their ignorance.
       
 </td  style="text-align: center; border: 0">
 <td>
