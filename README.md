@@ -10,7 +10,6 @@
 
 - 🚀  &nbsp; I'm constantly evolving.
 - 🌱  &nbsp; I’m currently learning all about NodeJS, Java, Apex(salesforce), Python, React, Vue, LWC.
-- &nbsp; Additionally, I am exploring the fascinating world of AI, quantum computing and game development as I expand my technical horizons.
 - :wink:  &nbsp; I'm looking to evolve more and more.
 - 💬  &nbsp; Ask me about what you want to know.
 - 😄  &nbsp; Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
