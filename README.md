@@ -13,7 +13,7 @@
 - &nbsp; Frontend: React, Vue.js, Lightning Web Components (LWC)
 - 🌱 &nbsp; Always striving to learn, grow, and push the boundaries of what’s possible.
 - 🎯 &nbsp; Goal: To continue building innovative solutions while mastering cutting-edge technologies.
-- 🤔 &nbsp; Knowledge is a paradox, the more one knows, the more one realizes the vastness of their ignorance.
+- 🤔 &nbsp; Knowledge is a paradox, the more we know, the more we realize the vastness of our ignorance.
       
 </td  style="text-align: center; border: 0">
 <td>
