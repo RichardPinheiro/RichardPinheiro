@@ -4,7 +4,7 @@
 
 <h2 style="text-align: center;"> Hi there 👋 Richard coding here :computer:</h2>
 
-<table boder="0" style="border: 0; padding: 20px; width: 40%;">
+<table boder="0" style="width: 50% !important;">
 <tr  style="text-align: center; border: 0">
 <td  style="text-align: center; border: 0">
 
@@ -17,13 +17,13 @@
       
 </td  style="text-align: center; border: 0">
 
-<td style="border: 0; padding: 20px; width: 40%;">
+<td style="border: 0">
 
 <img width="auto" height="190px" src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/developer2.gif">
 
 </td>
 
-<td style="border: 0; padding: 20px; width: 40%;">
+<td style="border: 0">
 </br>
 
 📫  &nbsp; *How to reach me*
