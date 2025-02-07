@@ -4,7 +4,7 @@
 
 <h2 style="text-align: center;"> Hi there 👋 Richard coding here :computer:</h2>
 
-<table boder="0" style="width: 50% !important;">
+<table boder="0" style="border: 0">
 <tr  style="text-align: center; border: 0">
 <td  style="text-align: center; border: 0">
 
@@ -16,14 +16,13 @@
 - 🤔 &nbsp; Knowledge is a paradox, the more we know, the more we realize the vastness of our ignorance.
       
 </td  style="text-align: center; border: 0">
-
-<td style="border: 0">
+<td>
 
 <img width="auto" height="190px" src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/developer2.gif">
 
 </td>
 
-<td style="border: 0">
+<td>
 </br>
 
 📫  &nbsp; *How to reach me*
