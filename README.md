@@ -25,5 +25,4 @@ Passionate about exploring complex systems and turning ideas into impact.
 ## 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-RichardPinhelro-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richard-pinheiro-56b99397/)  
-[![Twitter Badge](https://img.shields.io/badge/-@RichardPinhelro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/RichardPinhelro)  
 [![Gmail Badge](https://img.shields.io/badge/-richardpinheiro1992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:richardpinheiro1992@gmail.com)
