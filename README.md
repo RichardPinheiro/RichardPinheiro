@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/developer2.gif" height="190px" align="right" />
 
 ### 🚀 Currently diving deep into:
-- **Backend:** Node.js, Java, Python, C, Apex (Salesforce), Go
+- **Backend:** Node.js, Java, Python, C, Go, Apex (Salesforce)
 - **Frontend:** React, Vue.js, Lightning Web Components (LWC)  
 - **Infrastructure:** AWS, IBM Cloud  
 
