@@ -7,7 +7,7 @@
 ### 🚀 Currently diving deep into:
 - **Backend:** Node.js, Java, Python, C, Go, Apex (Salesforce)
 - **Frontend:** React, Vue.js, Lightning Web Components (LWC)  
-- **Infrastructure:** AWS, IBM Cloud
+- **Infrastructure:** AWS Stack, IBM Cloud
 - **AI/ML:** Python, intelligent model integration, AI/ML algorithms, reinforcement learning
 
 ### 🎯 Focused on building innovative, scalable, and secure solutions  
