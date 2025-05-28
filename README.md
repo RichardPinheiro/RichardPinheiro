@@ -9,6 +9,7 @@
 - **Frontend:** React, Vue.js, Lightning Web Components (LWC)  
 - **Infrastructure:** AWS Stack, IBM Cloud
 - **AI/ML:** Python, intelligent model integration, AI/ML algorithms, reinforcement learning
+- **Game Development:** Building gameplay systems in C, and C++ with Unreal Engine
 
 ### 🎯 Focused on building innovative, scalable, and secure solutions  
 Blending clean architecture, cloud-native tools, and human-centered design.
