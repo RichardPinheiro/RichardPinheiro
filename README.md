@@ -8,8 +8,8 @@
 - **Backend:** Node.js, Java, Python, C, Go, Apex (Salesforce)
 - **Frontend:** React, Vue.js, Lightning Web Components (LWC)  
 - **Infrastructure:** AWS Stack, IBM Cloud
-- **AI/ML:** Python, intelligent model integration, AI/ML algorithms, reinforcement learning
-- **Game Development:** Building gameplay systems in C, and C++ with Unreal Engine
+- **AI & Machine Learning:** Supervised and unsupervised learning, reinforcement learning, model development, data preprocessing, evaluation metrics, scikit-learn, neural networks
+- **Game Development:** Building gameplay systems in C and C++
 
 ### 🎯 Focused on building innovative, scalable, and secure solutions  
 Blending clean architecture, cloud-native tools, and human-centered design.
